@@ -15,7 +15,6 @@ Note that these programs are written in Python 3, and you’ll need it to run th
 
 ## guessing_game
 **The Challenge:**
-
 Write a program that picks a random integer from 1 to 100, and has players guess the number. The rules are:
 
 - If a player's guess is less than 1 or greater than 100, say "OUT OF BOUNDS"
