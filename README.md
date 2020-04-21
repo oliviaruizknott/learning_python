@@ -11,10 +11,15 @@ For example:
 ```
 python guessing_game.py
 ```
-Note that these programs are written in Python 3, and you’ll need it to run them.
+Note that these programs are written in Python 3, and you’ll need it to run them. I have to run these with:
+```
+python3 guessing_game.py
+```
 
 ## guessing_game
-**The Challenge:**
+```
+python guessing_game.py
+```
 Write a program that picks a random integer from 1 to 100, and has players guess the number. The rules are:
 
 - If a player's guess is less than 1 or greater than 100, say "OUT OF BOUNDS"
@@ -23,7 +28,9 @@ Write a program that picks a random integer from 1 to 100, and has players guess
 - When the player's guess equals the number, tell them they've guessed correctly and how many guesses it took!
 
 ## tic_tac_toe
-**The Assignment:**
+```
+python tic_tac_toe.py
+```
 Create a Tic Tac Toe game. Here are the requirements:
 
 - 2 players should be able to play the game (both sitting at the same computer)
