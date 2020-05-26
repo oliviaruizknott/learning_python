@@ -36,3 +36,19 @@ Create a Tic Tac Toe game. Here are the requirements:
 - 2 players should be able to play the game (both sitting at the same computer)
 - The board should be printed out every time a player makes a move
 - You should be able to accept input of the player position and then place a symbol on the board
+
+## blackjack
+```
+python blackjack.py
+```
+In this milestone project you will be creating a Complete BlackJack Card Game in Python.
+
+Here are the requirements:
+
+- You need to create a simple text-based BlackJack game
+- The game needs to have one player versus an automated dealer.
+- The player can stand or hit.
+- The player must be able to pick their betting amount. [Betting not implemented.]
+- You need to keep track of the player's total money. [Betting not implemented.]
+- You need to alert the player of wins, losses, or busts, etc...
+- And most importantly: **You must use OOP and classes in some portion of your game. You can not just use functions in your game.**
