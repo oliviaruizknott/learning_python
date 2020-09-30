@@ -52,3 +52,10 @@ Here are the requirements:
 - You need to keep track of the player's total money. [Betting not implemented.]
 - You need to alert the player of wins, losses, or busts, etc...
 - And most importantly: **You must use OOP and classes in some portion of your game. You can not just use functions in your game.**
+
+## car_game
+If you have [`pygame`](https://www.pygame.org) installed:
+```
+python car_game.py
+```
+I made this as my capstone project for the Udemy course, following [this tutorial](https://coderslegacy.com/python/python-pygame-tutorial/). (I really want to make games! This was my first time using any sort of game-specific software to do so.)
